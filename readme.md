@@ -31,7 +31,7 @@ The **Library Management System** is a console-based application designed to hel
 #### Steps
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/a-rahman-ali/library-management-system.git
+   git clone https://github.com/a-rahman-ali/library-management-system-typescript.git
    cd library-management-system 
 2. **Install the dependencies**:
     ```bash
